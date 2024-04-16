@@ -1,5 +1,5 @@
 ﻿# Mechanized
-Scripts is where all the C# logic code lies. 
+Scripts is where all the C# logic code lies. Ignore the .meta files. I forgot to remove them so apologies!
 ## References / Assets Used
 Under is every asset that does not belong to me and
 was used from the Unity asset store.
